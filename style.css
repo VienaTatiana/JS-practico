@@ -367,6 +367,7 @@ nav{
     font-size: var(--md);
     font-weight: bold;
     height: 50px;
+    margin-bottom: 20px;
 }
 .add-to-cart-button{
     display: flex;
